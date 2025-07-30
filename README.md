@@ -268,7 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Prathik Marneni**
 - Senior DevOps Engineer
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: https://www.linkedin.com/in/prathik-marneni/
 - Email: saiprathik29@gmail.com
 - Location: Atlanta, GA
 
